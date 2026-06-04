@@ -1,5 +1,4 @@
 <div align="center">
-  <!-- 본인 깃허브 ID를 입력하면 자동으로 프로필 사진이 연동됩니다 -->
   <img src="https://github.com/kyeong9743.png" width="140" style="border-radius: 50%; border: 3px solid #29B6F6;" />
 
   # 한라봉
