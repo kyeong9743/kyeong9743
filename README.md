@@ -21,25 +21,25 @@
   <tr>
     <!-- 인공지능 -->
     <td width="50%" valign="top" style="padding: 15px;">
-      <h3>🧠 인공지능</h3>
+      <h3>🧠 AI & Deep Learning</h3>
       <p>Deep Learning, Computer Vision</p>
       <p><code>CNN</code> <code>YOLO</code> <code>LSTM</code> <code>LAM</code></p>
     </td>
     <!-- 서버 개발 -->
     <td width="50%" valign="top" style="padding: 15px;">
-      <h3>🖥️ 서버 개발</h3>
+      <h3>🖥️ SERVER</h3>
       <p>Ubuntu, Windows Server, Arch Linux</p>
     </td>
   </tr>
   <tr>
     <!-- 개발 스택 -->
     <td width="50%" valign="top" style="padding: 15px;">
-      <h3>&lt;/&gt; 개발 스택</h3>
-      <p>Python, Flask, React, Java, C, C#, Big Data</p>
+      <h3>&lt;/&gt; DEV STACK</h3>
+      <p>Python, Flask, React, Java, C++, C#, Big Data</p>
     </td>
     <!-- 네트워크 -->
     <td width="50%" valign="top" style="padding: 15px;">
-      <h3>☊ 네트워크</h3>
+      <h3>☊ NETWORK ENG</h3>
       <p>L2/L3 Switching, Routing & Gateway, Network Engineering</p>
     </td>
   </tr>
