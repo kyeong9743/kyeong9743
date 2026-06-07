@@ -49,6 +49,49 @@
 
 ---
 
+<details>
+<summary>🛠️ 홈랩(Home Lab) 구성</summary>
+
+<table>
+  <tr>
+    <td valign="top">
+<pre>
+┌────────────────────────────────────────────────────────┐
+│ [42U Homelab Server Rack Layout]                       │
+├────────────────────────────────────────────────────────┤
+│ [Top Layer] Console Monitor                            │
+├────────────────────────────────────────────────────────┤
+│ [3U Space ] Gateway & Network Shelf                    │
+│              └─ TP-Link ER7206                         │
+│              └─ Raspberry Pi 4, 5                      │
+│              └─ Wireless AP                            │
+├────────────────────────────────────────────────────────┤
+│ [3U Space ] Dasan 2024G L2 Managed Switch              │
+├────────────────────────────────────────────────────────┤
+│ [4U Chassis] Main Server 1 (Ubuntu Core App)           │
+├────────────────────────────────────────────────────────┤
+│ [2U Chassis] Windows Server 3 (Windows Core App)       │
+├────────────────────────────────────────────────────────┤
+│ [2U Chassis] Mini Server 2 (Light Workloads)           │
+├────────────────────────────────────────────────────────┤
+│ [4U Chassis] UPS (Uninterruptible Power Supply)        │
+├────────────────────────────────────────────────────────┤
+│                                                        │
+│ [21U Open ] Expansion Buffer                           │
+│              (Reserved for Future Infra Expansion)     │
+│                                                        │
+└────────────────────────────────────────────────────────┘
+</pre>
+    </td>
+    <td valign="top">
+      <img src="https://github.com/user-attachments/assets/f22aa12e-11a3-4165-b156-616a1b769269" width="550" alt="Homelab Architecture Diagram">
+    </td>
+  </tr>
+</table>
+
+</details>
+
+---
 <br>
 
 <p align="center">
