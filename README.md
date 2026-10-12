@@ -35,7 +35,7 @@
     <!-- 개발 스택 -->
     <td width="50%" valign="top" style="padding: 15px;">
       <h3>&lt;/&gt; DEV STACK</h3>
-      <p>Python, Flask, React, Java, C++, C#, Big Data</p>
+      <p>Python, Flask, React, Java, C#, Big Data</p>
     </td>
     <!-- 네트워크 -->
     <td width="50%" valign="top" style="padding: 15px;">
